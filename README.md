@@ -1,3 +1,8 @@
+## MINI ATM
+
+
+
+
 💳 Java ATM Management System (Swing + JDBC + MySQL)
 This is a Java-based ATM simulation system built using Swing for GUI and JDBC with MySQL for data persistence. It allows users to register with their PIN, log in securely, manage their account balance, and view detailed transaction history — all through a friendly graphical interface.
 
