@@ -23,11 +23,11 @@ Two main tables:
 
 users:
 
-pin (INT, Primary Key)
+pin (INT, Primary Key),
 
-username (VARCHAR)
+username (VARCHAR),
 
-balance (DOUBLE)
+balance (DOUBLE),
 
 transactions:
 
@@ -70,9 +70,9 @@ Local User class to manage current session.
 🧪 Prerequisites to Run
 JDK installed (Java 8 or later)
 
-MySQL installed and running locally
+MySQL installed and running locally.
 
-JDBC connector JAR added to classpath
+JDBC connector JAR added to classpath.
 
 IDE like IntelliJ or Eclipse (optional)
 
@@ -85,7 +85,7 @@ git clone https://github.com/your-username/java-atm-system.git
 cd java-atm-system
 Import atmdb.sql (if provided) into your MySQL.
 
-Update DB credentials in the source file
+Update DB credentials in the source file.
 
 java
 Edit
