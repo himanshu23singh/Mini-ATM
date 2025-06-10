@@ -10,7 +10,7 @@ public class SystematizedATMApp {
 
     static final String DB_URL = "jdbc:mysql://localhost:3306/atmdb";
     static final String DB_USER = "root"; // Change to your DB username
-    static final String DB_PASS = "himanshu"; // Change to your DB password
+    static final String DB_PASS = ""; // Change to your DB password
 
     static class User {
         String name;
