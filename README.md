@@ -17,12 +17,6 @@ This is a Java-based ATM simulation system built using Swing for GUI and JDBC wi
 
 🔁 Session Management: Includes proper logout functionality to clear the current session.
 
-🧑‍💻 Technologies Used
-Technology	Purpose
-Java	Core programming language
-Swing	GUI development
-JDBC	Java-MySQL database connectivity
-MySQL	Database to store users and transactions
 
 🗄️ Database Schema
 Two main tables:
