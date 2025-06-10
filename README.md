@@ -85,10 +85,9 @@ git clone https://github.com/your-username/java-atm-system.git
 cd java-atm-system
 Import atmdb.sql (if provided) into your MySQL.
 
-Update DB credentials in the source file:
+Update DB credentials in the source file
 
 java
-Copy
 Edit
 static final String DB_USER = "your-username";
 static final String DB_PASS = "your-password";
